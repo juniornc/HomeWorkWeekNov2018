@@ -13,7 +13,7 @@
     <session id="-1998669482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="3" />
@@ -234,7 +234,7 @@
             <path>
               <item name="homeworweeknov2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeworweeknov2018" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkWeekDaysNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />

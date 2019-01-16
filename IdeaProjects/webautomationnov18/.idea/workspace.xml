@@ -5,6 +5,7 @@
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ecommerce/target/" />
     <ignored path="$PROJECT_DIR$/generic/target/" />
+    <ignored path="$PROJECT_DIR$/Amazon/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,114 +16,76 @@
     <session id="1073729770">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="12" />
-          <entry key="iml" value="30" />
-          <entry key="java" value="2029" />
-          <entry key="xml" value="625" />
+          <entry key="HomePage" value="16" />
+          <entry key="apple" value="14" />
+          <entry key="dummy" value="54" />
+          <entry key="fxml" value="31" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="31" />
+          <entry key="java" value="3171" />
+          <entry key="xml" value="651" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="IDEA_MODULE" value="30" />
-          <entry key="JAVA" value="2029" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="XML" value="625" />
+          <entry key="IDEA_MODULE" value="31" />
+          <entry key="JAVA" value="3171" />
+          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="XML" value="682" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="gitignore" value="2" />
-          <entry key="iml" value="3" />
-          <entry key="java" value="20" />
-          <entry key="md" value="1" />
-          <entry key="xml" value="9" />
+          <entry key="class" value="7" />
+          <entry key="fxml" value="1" />
+          <entry key="gitignore" value="4" />
+          <entry key="iml" value="9" />
+          <entry key="java" value="71" />
+          <entry key="json" value="3" />
+          <entry key="md" value="3" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="30" />
+          <entry key="yml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="20" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="XML" value="9" />
+          <entry key="CLASS" value="7" />
+          <entry key="IDEA_MODULE" value="9" />
+          <entry key="JAVA" value="71" />
+          <entry key="JSON" value="3" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="31" />
+          <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/HomePageTest.java">
+        <entry file="file://$PROJECT_DIR$/Amazon/Amazon.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecommerce/pom.xml">
+        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/ecommerce.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="155" selection-start-line="155" selection-end-line="155" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+            <state relative-caret-position="1305">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
             </state>
           </provider>
         </entry>
@@ -130,17 +93,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/ecommerce.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="375">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generic/src/webautomationnov18.iml">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/AmazonHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/test/pageobjects/AmazonHomePageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="75" column="67" selection-start-line="75" selection-start-column="67" selection-end-line="75" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -148,8 +132,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,32 +170,70 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/apple/tests</dir>
+    </dirStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pageobjects/HomePage.java" />
         <option value="$PROJECT_DIR$/generic/src/main/java/CommonApI.java" />
         <option value="$PROJECT_DIR$/ecommerce/src/test/resources/name.java" />
         <option value="$PROJECT_DIR$/ecommerce/src/test/java/pageobjects/HomePage.java" />
         <option value="$PROJECT_DIR$/ecommerce/src/test/java/pageobjects/HomePageTest.java" />
-        <option value="$PROJECT_DIR$/generic/src/.gitignore" />
         <option value="$PROJECT_DIR$/generic/src/webautomationnov18.iml" />
         <option value="$PROJECT_DIR$/ecommerce/src/main/java/com/page/objects/pageobjects/HomePage.java" />
         <option value="$PROJECT_DIR$/ecommerce/src/main/java/com/page/objects/pageobjects/ContactUsPage.java" />
-        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java" />
         <option value="$PROJECT_DIR$/ecommerce/src/test/ecommerce.iml" />
         <option value="$PROJECT_DIR$/generic/pom.xml" />
         <option value="$PROJECT_DIR$/ecommerce/src/test/resources/ecommerce.xml" />
-        <option value="$PROJECT_DIR$/ecommerce/pom.xml" />
-        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java" />
-        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/HomePageTest.java" />
         <option value="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" />
-        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/apple/src/Logo.java" />
+        <option value="$PROJECT_DIR$/apple/src/apple" />
+        <option value="$PROJECT_DIR$/apple/src/HomePage" />
+        <option value="$PROJECT_DIR$/apple/src/HomePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java" />
+        <option value="$PROJECT_DIR$/generic/src/.gitignore" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/com/util/xslx/reader/MyDataReader.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reporting/ApplicationLog.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/sheet/google/api/GoogleSheetReader.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/loginPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/UgingGoogleSheetLoginPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/resources/client_secret.json" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/resources/secret.properties.properties" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/LogoPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/Logo.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/LogoBase.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/HomePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/Home.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/Application/Page/Base/ApplicationPageBase.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/application/page/base/ApplicationPageBase.java" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/Home.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/AmazonHomePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/HelloASignin.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/test/pageobjects/AmazonHomePageTest.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/HelloSigninPage.java" />
+        <option value="$PROJECT_DIR$/ecommerce/src/test/java/page/objects/LoginPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/SigninPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/resources/Amazon.xml.fxml" />
+        <option value="$PROJECT_DIR$/Amazon/Amazon.iml" />
       </list>
     </option>
   </component>
@@ -200,45 +246,23 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ecommerce" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="webautomationnov18" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="webautomationnov18" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="613" />
-    <option name="y" value="23" />
-    <option name="width" value="908" />
-    <option name="height" value="821" />
+    <option name="x" value="497" />
+    <option name="y" value="33" />
+    <option name="width" value="943" />
+    <option name="height" value="678" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,6 +273,56 @@
             <path>
               <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
               <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -269,14 +343,6 @@
               <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -286,6 +352,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
@@ -313,65 +388,35 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webautomationnov18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationnov18" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546442370360" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547074512826" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1150748" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/generic" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pageobjects" />
       <recent name="com.page.objects.pageobjects" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Amazon/driver" />
+      <recent name="$PROJECT_DIR$/Amazon/lib" />
+      <recent name="$PROJECT_DIR$/generic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -386,7 +431,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml">
+  <component name="RunManager">
+    <configuration name="AmazonHomePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonHomePage" />
+      <module name="Amazon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContactUsPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ecommerce" />
       <extension name="coverage">
@@ -397,24 +449,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.pageobjects" />
       <option name="MAIN_CLASS_NAME" value="test.pageobjects.ContactUsPageTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContactUsPageTest.contactUsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ecommerce" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.pageobjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.pageobjects" />
-      <option name="MAIN_CLASS_NAME" value="test.pageobjects.ContactUsPageTest" />
-      <option name="METHOD_NAME" value="contactUsTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -437,7 +471,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest.searchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomePageTest.searchTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ecommerce" />
       <extension name="coverage">
         <pattern>
@@ -445,10 +479,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ecommerce/src/test/resources/ecommerce.xml" />
       <option name="PACKAGE_NAME" value="test.pageobjects" />
       <option name="MAIN_CLASS_NAME" value="test.pageobjects.HomePageTest" />
       <option name="METHOD_NAME" value="searchTest" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
       <properties />
       <listeners />
       <method v="2">
@@ -467,18 +503,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG./Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" />
-      <item itemvalue="TestNG.ContactUsPageTest.contactUsTest" />
-      <item itemvalue="TestNG.HomePageTest.searchTest" />
-      <item itemvalue="TestNG.HomePageTest" />
       <item itemvalue="TestNG.ContactUsPageTest" />
+      <item itemvalue="TestNG.HomePageTest.searchTest (1)" />
+      <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="Application.AmazonHomePage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AmazonHomePage" />
         <item itemvalue="TestNG./Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" />
-        <item itemvalue="TestNG.HomePageTest.searchTest" />
-        <item itemvalue="TestNG.ContactUsPageTest.contactUsTest" />
-        <item itemvalue="TestNG.ContactUsPageTest" />
+        <item itemvalue="TestNG.HomePageTest.searchTest (1)" />
         <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.ContactUsPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -496,134 +532,83 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTest_searchTest - 2019.01.01 at 23h 45m 54s.xml">
-      <configuration name="HomePageTest.searchTest" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 22h 52m 46s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.01 at 23h 46m 21s.xml">
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 22h 53m 14s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 22h 53m 27s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 23h 02m 29s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.07 at 23h 02m 53s.xml">
       <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.01 at 23h 49m 06s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 23h 07m 33s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.01 at 23h 57m 36s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 23h 08m 40s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.02 at 00h 00m 54s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 23h 16m 47s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.02 at 00h 01m 17s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
+    <history-entry file="HomePageTest_searchTest_(1) - 2019.01.07 at 23h 17m 26s.xml">
+      <configuration name="HomePageTest.searchTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.02 at 00h 15m 57s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.02 at 00h 20m 06s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.02 at 09h 48m 42s.xml">
-      <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.02 at 10h 08m 20s.xml">
+    <history-entry file="_Users_germaniconavas_IdeaProjects_webautomationnov18_ecommerce_src_test_resources_ecommerce_xml - 2019.01.07 at 23h 17m 44s.xml">
       <configuration name="/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/resources/ecommerce.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="357" y="23" width="908" height="821" extended-state="0" />
+    <frame x="497" y="33" width="943" height="678" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35334873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34628192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30727023" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3251029" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3319616" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4129693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info active="true" anchor="right" id="Maven Projects" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30716723" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21673526" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973986" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.2610687" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjects/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/main/java/page/objects/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/main/java/page/objects/ContactUsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/ecommerce.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjects/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/main/java/page/objects/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/main/java/page/objects/ContactUsPage.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/maven-surefire-common/2.20.1/maven-surefire-common-2.20.1.jar!/org/apache/maven/plugin/surefire/booterclient/ForkStarter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="562">
           <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/maven-surefire-common/2.20.1/maven-surefire-common-2.20.1.jar!/org/apache/maven/plugin/surefire/AbstractSurefireMojo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="659" selection-start-line="659" selection-end-line="659" />
         </state>
       </provider>
     </entry>
@@ -648,49 +633,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecommerce/target/test-classes/test/pageobjects/HomePageTest.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/apple/src/HomePage" />
+    <entry file="file://$PROJECT_DIR$/PetRock/src/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/apple/src/HomePage.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/maven-surefire-common/2.20.1/maven-surefire-common-2.20.1.jar!/org/apache/maven/plugin/surefire/AbstractSurefireMojo.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="2697">
+          <caret line="398" selection-start-line="398" selection-end-line="398" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/generic/src/test/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
+    <entry file="file://$PROJECT_DIR$/generic/src/test/java/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="166">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/generic/src/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/webautomationnov18.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -699,34 +678,279 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/HomePageTest.java">
+    <entry file="file://$PROJECT_DIR$/generic/src/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/UgingGoogleSheetLoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/com/util/xslx/reader/MyDataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#292#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/sheet/google/api/GoogleSheetReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="124" column="1" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/ecommerce.xml">
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="350">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/secret.properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Application/Page/Base/ApplicationPageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/test/pageobjects/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/application/page/base/ApplicationPageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/ContactUsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/java/page/objects/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/ecommerce.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/resources/Amazon.xml.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/ecommerce.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="75" column="67" selection-start-line="75" selection-start-column="67" selection-end-line="75" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/SigninPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/Amazon.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/AmazonHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/test/pageobjects/AmazonHomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -811,7 +1035,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.1150748" />
               </list>
             </option>
           </splitter-proportions>

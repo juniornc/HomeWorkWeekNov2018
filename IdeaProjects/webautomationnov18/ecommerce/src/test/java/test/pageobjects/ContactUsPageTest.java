@@ -11,9 +11,8 @@ import page.objects.HomePage;
 
 public class ContactUsPageTest extends BrowserDriver {
 
-    ContactUsPage objContactUsPage = null;
-
-    HomePage objOfHomePage =null;
+   ContactUsPage  objContactUsPage = null;
+   HomePage objOfHomePage =null;
 
     @BeforeMethod
     public void initializationOfElements() {

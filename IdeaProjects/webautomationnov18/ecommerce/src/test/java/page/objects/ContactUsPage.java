@@ -10,11 +10,10 @@ import org.openqa.selenium.support.How;
         public class ContactUsPage extends BrowserDriver {
 
 
-
             @FindBy(how = How.CLASS_NAME, className = "page-heading")
-            private  WebElement pageHeading;
+            private WebElement pageHeading;
 
-            public String contactUs(){
+            public String contactUs() {
 
                 String getText = pageHeading.getText();
 

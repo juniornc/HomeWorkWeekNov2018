@@ -1,5 +1,6 @@
 package page.objects;
 
+import application.page.base.ApplicationPageBase;
 import base.BrowserDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -15,8 +16,9 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class HomePage  extends BrowserDriver {
+public class HomePage  extends ApplicationPageBase {
 
+private WebDriver driver;
 
     @FindBy(how = How.ID, using = "search_query_top")
     private WebElement searchBox;
@@ -24,7 +26,24 @@ public class HomePage  extends BrowserDriver {
     @FindBy(how = How.PARTIAL_LINK_TEXT, partialLinkText = "Contact us")
     private WebElement contactUs;
 
+
+
+    @FindBy(how = How.PARTIAL_LINK_TEXT,  partialLinkText = "Sign in")
+    private WebElement signInButton;
+
+
+    public LoginPage getLogInPage() {
+
+        signInButton.click();
+        return new LoginPage();
+    }
+
+
+
+
     public void clickContactUs(){
+
+        ApplicationPageBase.isEnableStatus(driver, contactUs);
 
         contactUs.click();
 

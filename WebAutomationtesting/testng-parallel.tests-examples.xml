@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Amazon Tests" parallel="methods" thread-count="3">
+<parameter name="product_name" value="iphone"></parameter>
+    <parameter name="param2" value="1234567890"></parameter>
+    <test name="Search product Test">
+        <classes>
+            <class name="com.cars.tests.AmazonTests">
+            <methods>
+                <include name="testProductSearch3"></include>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

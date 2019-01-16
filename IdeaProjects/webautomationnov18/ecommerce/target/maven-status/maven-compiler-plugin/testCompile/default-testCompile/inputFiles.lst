@@ -1,4 +1,8 @@
 /Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java
 /Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/test/pageobjects/HomePageTest.java
 /Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/page/objects/HomePage.java
+/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/test/pageobjects/UgingGoogleSheetLoginPageTest.java
+/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/test/pageobjects/LoginPageTest.java
+/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/page/objects/LoginPage.java
+/Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/application/page/base/ApplicationPageBase.java
 /Users/germaniconavas/IdeaProjects/webautomationnov18/ecommerce/src/test/java/page/objects/ContactUsPage.java

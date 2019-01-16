@@ -12,6 +12,7 @@
     <modules>
         <module>ecommerce</module>
         <module>generic</module>
+        <module>Amazon</module>
     </modules>
     <dependencyManagement>
         <dependencies>

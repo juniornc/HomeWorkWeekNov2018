@@ -9,8 +9,7 @@ import java.util.Map;
 
 public abstract class BaseTest {
 
-   // private WebDriver driver;
-//Map<String, WebDriver> driverMap = new HashMap<String, WebDriver>();
+
     ThreadLocal<WebDriver> drivers = new ThreadLocal<WebDriver>();
     @BeforeMethod
     public void beforeMethod() {
@@ -31,8 +30,7 @@ public abstract class BaseTest {
     }
 
     protected WebDriver driver() {
-        //return driver;
-      //return driverMap.get(Thread.currentThread(). getName());
+
         return drivers.get();
 
 

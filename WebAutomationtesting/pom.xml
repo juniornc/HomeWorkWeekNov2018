@@ -30,15 +30,13 @@
 
         <dependency>
             <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
+            -<artifactId>testng</artifactId>
             <version>6.11</version>
 
 
-        </dependency>
+        -</dependency>
 
         <dependency>
-
-
             <groupId>org.uncommons</groupId>
             <artifactId>reportng</artifactId>
             <version>1.1.4</version>
@@ -48,7 +46,6 @@
                     <artifactId>testng</artifactId>
                 </exclusion>
             </exclusions>
-
         </dependency>
         <dependency>
             <groupId>com.google.inject</groupId>
@@ -57,7 +54,7 @@
 
         </dependency>
             <dependency>
-                <groupId>org.testng</groupId>
+                -<groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
                 <version>7.0.0-beta3</version>
                 <scope>test</scope>
@@ -71,7 +68,7 @@
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
-                <version>7.0.0-beta3</version>
+            <version>7.0.0-beta3</version>
             </dependency>
             <dependency>
                 <groupId>org.testng</groupId>
@@ -82,21 +79,21 @@
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
                 <version>7.0.0-beta3</version>
-                <scope>test</scope>
+                -<scope>test</scope>
             </dependency>
             <dependency>
                 <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
                 <version>4.12</version>
                 <scope>test</scope>
-            </dependency>
+            <</dependency>
             <dependency>
                 <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
                 <version>4.12</version>
                 <scope>test</scope>
             </dependency>
-            <dependency>
+            -<dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
                 <version>6.13.1</version>
@@ -106,7 +103,7 @@
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
                 <version>7.0.0-beta3</version>
-                <scope>test</scope>
+                -<scope>test</scope>
             </dependency>
             <dependency>
                 <groupId>org.testng</groupId>
@@ -130,6 +127,7 @@
                 <version>7.0.0-beta3</version>
                 <scope>test</scope>
             </dependency>
+
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>

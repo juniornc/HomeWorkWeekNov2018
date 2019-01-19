@@ -62,7 +62,7 @@ public class AmazonTests extends BaseTest{
         AmazonHomePage homePage = PageFactory.initElements(driver(), AmazonHomePage.class);
         AmazonSearchResultPage resultPage = homePage.searchProduct("Pixel");
         String actualText = resultPage.getSearchResultText();
-        Assert.assertEquals(actualText, "Showing results in Electronics.Show instead results in All Categories.", "search result text failed");
+        Assert.assertEquals(actualText, "Showing results in Electronics.Show instead results in All Categories.", "search result text failed")
 
     }
     @DataProvider (parallel = true)
